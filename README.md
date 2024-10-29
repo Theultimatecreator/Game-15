@@ -21,12 +21,12 @@ This app gives you nubers 1 to 15 in random order an you should make it in order
 
 🛠️ Technologies                                                                                 
 
-Xml - for ui part                                
-Java - for the backend part                                           
-Activities - for screens                                       
-Shared Preferences - for saving result to phone storage                                                              
-Media player - for the music part                                                                       
-Relative Layout  - for placing the items in pattern                                                                                                                                                            
+**Xml** - for ui part                                
+**Java** - for the backend part                                           
+**Activities** - for screens                                       
+**Shared Preferences** - for saving result to phone storage                                                              
+**Media player** - for the music part                                                                       
+**Relative Layout**  - for placing the items in pattern                                                                                                                                                            
 
 #
 
